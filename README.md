@@ -14,3 +14,5 @@ Misc collection of PowerShell code
   - [PowerShellを使って、SMTPでGmailを送信する - メモ的な思考的な](http://thinkami.hatenablog.com/entry/2016/07/09/075608)
 - directory: `send_event_log_mail`
   - [PowerShellからイベントログの内容をメールで送信する - メモ的な思考的な](http://thinkami.hatenablog.com/entry/2016/07/11/065824)
+- directory: `gmail_api`
+  - [PowerShellを使って、Gmail APIからメールを送信する - メモ的な思考的な](http://thinkami.hatenablog.com/entry/2016/07/14/063045)
